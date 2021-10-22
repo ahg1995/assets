@@ -1,0 +1,10 @@
+    "name": "BigSwede",
+    "website": "https://bigswedetoken.com/",
+    "description": "BigSwede is a climate and socio-economic focused project originated in sweden.",
+    "explorer": "https://bscscan.com/address/0xacf213b827b2ce56f5c9a7afead862248b1cb938#code",
+    "type": "BEP20",
+    "symbol": "BGSWEDE",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xaCF213B827B2CE56F5C9A7AfeAD862248B1cb938"
+}
